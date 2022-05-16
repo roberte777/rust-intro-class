@@ -1,1 +1,1 @@
-Files for going through a Rust book
+Files for going through the Rust book
